@@ -96,5 +96,3 @@ Open [http://localhost:3000](http://localhost:3000). The app redirects to the da
 - `lib/` – Prisma client, task fetching, validations, types, SSE broadcast.
 - `hooks/` – `use-tasks` (mutations/queries), `use-sse` (real-time).
 - `prisma/` – Schema and seed.
-
-For intercepting routes and how the task modal vs full page works, see `docs/INTERCEPTING_ROUTES.md`.
